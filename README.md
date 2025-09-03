@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Machaur/Configuring-On-premises-Active-Directory-within-Azure-VMs/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Machaur/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/tree/main)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ]
+  - [VPN Setup in Virtual Machine](https://github.com/Machaur/VPN-Setup-in-Virtual-Machine/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
