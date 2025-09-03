@@ -1,19 +1,17 @@
-# Hi, I'm Luis Babilonia, an IT Professional 👨‍💻  
+<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-## 💻 Information Technology Projects:
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-### osTicket (Help Desk Ticketing System)
-- [osTicket: Prerequisites and Installation](#)
-- [osTicket: Post-Installation Configuration](#)
-- [osTicket: Ticket Lifecycle Examples](#)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-### Microsoft Azure
-- [Configuring On-premises Active Directory within Azure VMs](#)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](#)
+<h2>🤳Connect with me:</h2>
 
----
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-## 🌐 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
+[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/luis-babilonia-1b18bb339)
